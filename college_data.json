@@ -1,0 +1,84 @@
+{
+  "college_name": "Shri Ram Institute of Technology, Jabalpur",
+  "about": "SRIT Jabalpur is a private engineering and management institute located near I.T.I, Madhotal, Jabalpur, MP.",
+
+  "owner": {
+    "name": "ABC",
+    "designation": "Chairman / Managing Director"
+  },
+
+  "principal": {
+    "name": "ABC"
+  },
+
+  "location": "Near I.T.I, Madhotal, Jabalpur, Madhya Pradesh 482002",  
+
+  "contact": {
+    "phone": ["9755042292", "9755042293", "0761-4001933", "0761-4001936"],
+    "email": "info@sritgroup.net",
+    "website": "https://www.sritgroup.net"
+  },
+
+  "courses": {
+    "UG": ["B.Tech (Computer Science, Mechanical, Civil, Electrical, Electronics)"],
+    "PG": ["M.Tech", "MBA", "MCA"]
+  },
+
+  "fees": {
+    "B.Tech": "≈ ₹86,500L (as per available data, may vary by branch)",
+    "M.Tech": "≈ ₹62,000 per year",
+    "MBA": "≈ ₹82,400 for full course",
+    "MCA": "≈ ₹78,000 for full course"
+  },
+
+  "admission": {
+    "process": "Admission through entrance exam and merit-based counselling",
+    "entrance_exams": ["JEE Main", "MP State Counselling", "Institute Level Entrance"],
+    "documents_required": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "Graduation Marksheet (for PG)",
+      "Aadhar Card",
+      "Transfer Certificate",
+      "Caste Certificate (if applicable)",
+      "Income Certificate"
+    ]
+  },
+
+  "departments": [
+    "Computer Science & Engineering",
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "Electrical & Electronics Engineering",
+    "Electronics & Communication Engineering",
+    "MBA Department",
+    "MCA Department"
+  ],
+
+  "accreditation": {
+    "approved_by": ["AICTE"],  
+    "affiliated_to": "Rajiv Gandhi Prodyogiki Vishwavidyalaya (RGPV), Bhopal"
+  },
+
+  "hostel": {
+    "available": true,
+    "boys": true,
+    "girls": true,
+    "details_note": "Hostel & mess charges applicable as per college rules"
+  },
+
+  "placements": {
+    "training_and_placement_cell": true,
+    "average_package": "₹3 LPA to ₹4 LPA (approximately)",
+    "highest_package": "₹8 LPA (as per reported data)",
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Capgemini",
+      "HCL",
+      "Tech Mahindra"
+    ],
+    "note": "Placement figures vary every year. Students are trained with aptitude, soft skills and technical sessions."
+  }
+}
